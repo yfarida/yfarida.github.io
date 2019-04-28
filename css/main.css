@@ -1,5 +1,5 @@
 h1{
-    color:greenyellow;
+    color:rgb(136, 196, 45);
 }
 p{
     background:coral;
@@ -8,12 +8,12 @@ p{
     color:lightgreen;
 }
 #id_sample{
-    color:chocolate;
+    color:purple;
     background:seashell;
 }
 
 [color]
 {
-    background:lightcoral;
+    background:purple;
     position:fixed;   
 }
