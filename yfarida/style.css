@@ -1,16 +1,22 @@
 h1{
-    color:lightslategrey;
+    color:rgb(113, 127, 165);
 }
 h2{
-    color:gray;
+    color:rgb(31, 70, 46);
 }
+
 img {
     border-radius:50%;
 }
 #id_sample{
-    color:rgb(75, 104, 102);
+    color:rgb(39, 16, 31);
 
 }
 .image{
     background:grey;
+}
+body{background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
 }
