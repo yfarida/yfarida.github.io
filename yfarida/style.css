@@ -7,3 +7,10 @@ h2{
 img {
     border-radius:50%;
 }
+#id_sample{
+    color:rgb(75, 104, 102);
+
+}
+.image{
+    background:grey;
+}
